@@ -1,0 +1,14 @@
+body{
+	background-image:url('../img/logo.png');
+	background-color:#D3FEFE;
+	background-repeat: repeat;
+}
+
+.container{
+	background-color:#FFF;
+}
+
+.sidebar-image-holder{
+	background-image:url('../img/sidebar-img.jpg');
+	height:750px;
+}
